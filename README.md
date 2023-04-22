@@ -15,7 +15,7 @@
 
 继续拖拽图片到上传框或点击上传框，可重新上传视频文件。
 
-![image-20200426175509987](tmp/gifs/视频转gif.gif)
+![image-20200426175509987](https://www.benpaodehenji.com/staticFile/%E8%A7%86%E9%A2%91%E8%BD%ACgif.gif)
 
 操作演示
 
@@ -97,4 +97,4 @@
 
 ## 声明
 
-本项目转至[gitee gif_generate](https://gitee.com/OrganizationStudy/gif_generate?_from=gitee_search)【非常感谢作者分享】；刚下载无法使用可能由于 vue 和 element 版本问题，修改 vue 和 elemnt 引入能够完成 video 转换,启动 test 和 tmp 为测试所需加入。
+本项目转至[gitee gif_generate](https://gitee.com/OrganizationStudy/gif_generate?_from=gitee_search)【非常感谢作者分享】；刚下载无法使用可能由于 vue 和 element 版本问题，修改 vue 和 elemnt 引入能够完成 video 转换,其中 test 和 tmp 为测试所需加入。
