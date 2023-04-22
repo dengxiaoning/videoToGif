@@ -15,7 +15,7 @@
 
 继续拖拽图片到上传框或点击上传框，可重新上传视频文件。
 
-![preview-img](https://www.benpaodehenji.com/staticFile/%E8%A7%86%E9%A2%91%E8%BD%ACgif.gif)
+![preview-img](https://github.com/dengxiaoning/videoToGif/blob/master/image/README.asset/gifTransfer.gif)
 
 操作演示
 
